@@ -1,0 +1,56 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run JavaFX App",
+      "request": "launch",
+      "mainClass": "Main",
+      "vmArgs": "--module-path D:/desktop/test_python/javafx-sdk-17.0.16/lib --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
+
+/*
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "graphic",
+            "request": "launch",
+            "mainClass": "graphic",
+            "projectName": "test_python_db9c309d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path D:/desktop/test_python/javafx-sdk-17.0.16/lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "test_python_9b155219"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "test_python_2086e197"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "type": "java",
+            "name": "Run JavaFX App",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path D:/desktop/test_python/javafx-sdk-17.0.16/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+
+}
+*/

@@ -1,0 +1,2 @@
+Thư mục này liệt kê các cú pháp node.js bổ sung thêm không có trong V8 (JS phía trình duyệt)
+Chỉ nêu một số cú pháp nhỏ lẻ thôi còn lại là liệt kê, kiến thức chi tiết sẽ được nêu trong các chương sau

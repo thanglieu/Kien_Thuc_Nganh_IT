@@ -1,0 +1,3 @@
+JS ban đầu chỉ dùng cho frontend nên phần thao tác với file, đa luồng, bất đồng bộ,.. khá hạn chế.
+JS core chỉ chứa một số cú pháp cơ bản. Nó chỉ vừa đủ chức năng của một ngôn ngữ lập trình.
+Các chức năng nâng cao như API sẽ được học trong Node.js là phiên bản cao hơn của JS dùng cho backend server.
